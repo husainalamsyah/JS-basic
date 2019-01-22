@@ -8,3 +8,10 @@ console.log(namapertama, namaakhir);
 
 const numberrating = 3;
 console.log(numberrating);
+
+// primitive types - title
+
+let nama = 'husain';
+let umur = 19;
+let persetujuan = true;
+console.log(nama, umur, persetujuan);
