@@ -1,3 +1,5 @@
+// if..else
+
 let jam = 9;
 
 if (jam >= 7 && jam < 14) {
@@ -8,6 +10,8 @@ else if (jam >= 14 && jam < 19) {
 }
 else
     console.log('selamat malam');
+
+//     switch..case
 
     let peran = 'murid';
 
