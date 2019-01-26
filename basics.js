@@ -14,4 +14,5 @@ console.log(numberrating);
 let nama = 'husain';
 let umur = 19;
 let persetujuan = true;
-console.log(nama, umur, persetujuan);
+let namaAwal = undefined;
+let pilihWarna = null;
