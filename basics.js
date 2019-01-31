@@ -1,7 +1,7 @@
 // vari`ables
 
 let namapertama = "husain";
-let namaakhir = "alamsyah";
+let namaAkhir = "alamsyah";
 // console.log(namapertama, namaakhir);
 
 // constants
@@ -34,6 +34,13 @@ console.log(person.nama);
 let pilihanWarna = ['crimson', 'navy']
 pilihanWarna[2] = 1;
 console.log(pilihanWarna.length)
+
+// Functions
+function selamat(nama) {
+    console.log('hello ' + nama + ' ' + namaAkhir)
+}
+
+selamat('Husain', 'alamsyah')
 
 
 // CONTROL FLOW
