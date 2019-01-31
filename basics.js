@@ -40,8 +40,12 @@ function selamat(nama) {
     console.log('hello ' + nama + ' ' + namaAkhir)
 }
 
-selamat('Husain', 'alamsyah')
+// Types of Function
+function persegi(angka) {
+    return angka * angka;
+}
 
+console.log(persegi(2));
 
 // CONTROL FLOW
 
